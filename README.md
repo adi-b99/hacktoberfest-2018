@@ -42,6 +42,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ## Contributors List
 
 # A
+### Aditya
+-  I'm a Software Developer From India
+- Hobbies:
+  - Coding
+  - Gaming
+  - Cooking
 
 ### Aadesh Mirajkar
 - Student, Code Ninza
